@@ -1,3 +1,8 @@
+# Screenshots
+
+![](/TMGEmain.png)
+
+
 Tile-Matching Game Environment (TMGE)
 
 Instructions on executing the game jar file <br /><br />
