@@ -1,9 +1,9 @@
 # Screenshots
-
+<img src="/bejeweled.png" width="300px">
+<img src="/tetris.png" width="300px">
 ![](/TMGEmain.png)
 ![](/bejeweled.png)
 ![](/tetris.png)
-![](/leaderboard.png)
 
 # Link to the live leaderboard
 https://a5games.xyz/index.php?type=bejeweled
