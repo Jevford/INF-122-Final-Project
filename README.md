@@ -1,9 +1,14 @@
 # Screenshots
 
 ![](/TMGEmain.png)
+![](/bejeweled.png)
+![](/tetris.png)
+![](/leaderboard.png)
 
+# Link to the live leaderboard
+https://a5games.xyz/index.php?type=bejeweled
 
-Tile-Matching Game Environment (TMGE)
+# Tile-Matching Game Environment (TMGE)
 
 Instructions on executing the game jar file <br /><br />
 Download Runnable Jar from git repo: <br />
