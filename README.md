@@ -1,5 +1,5 @@
-# Screenshots
 # Tile-Matching Game Environment (TMGE)
+A tile matching game environment developed in Java that allows users to play various tile-based games from the application's game hub.  The application also features the ability for developers to add their own tile-based games using the TMGE's API.  Many design patterns and principles were applied into this project to make the API as easy and effective to use for developers to create their own tile-based games.  PHP was used to implement a live online scoreboard to track players' scores whenever a game was completed.
 
 # Screenshots
 
